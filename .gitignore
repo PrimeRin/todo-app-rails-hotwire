@@ -23,3 +23,4 @@ test/
 vendor/
 storage/
 Gemfile.lock
+node_modules/*
